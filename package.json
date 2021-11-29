@@ -1,0 +1,26 @@
+{
+  "name": "courses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangkimca/node_js.git"
+  },
+  "author": "Ka1do",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangkimca/node_js/issues"
+  },
+  "homepage": "https://github.com/hoangkimca/node_js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
